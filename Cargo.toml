@@ -4,7 +4,9 @@ version = "0.1.0"
 authors = ["Rory McCann <rory@technomancy.org>"]
 edition = "2018"
 license = "AGPL-3.0+"
-keywords = ["geospatial", "geo"]
+keywords = ["geospatial", "geo", "world-files", "georeferencing"]
+repository = "https://github.com/rory/world_image_file_rust"
+description = "Read, write, and project with World Files for georeferenced images"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
